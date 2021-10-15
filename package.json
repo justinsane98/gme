@@ -1,0 +1,16 @@
+{
+  "name": "secsecretary",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:justinsane98/secsecretary.git",
+  "author": "Justin Shearer <https://www.justinshearer.com/",
+  "license": "MIT",
+  "scripts": {
+    "scrape": "node scraper.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^10.4.0"
+    
+  }
+}
